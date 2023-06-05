@@ -1,6 +1,7 @@
 # excel-challenge
 230606-excel-challenge-StratiMichael 
 README.md
+--------------------------------------------------------------------------------
 
 > FILE: " 230530_Module1_Homework_CrowdfundingBook_MichaelStrati.xlsx " --> is the primary assigment
   
@@ -12,6 +13,7 @@ README.md
   
 > NOTE: WORKBOOK includes 2 Extra Sheets not specificied, titled " NULL_Crowdfunding_SuccessOnly " & " NULL_Crowdfunding_FailOnly ". NULL signifies that those 2 sheets are not to be referenced as part of the assignment.
 
+--------------------------------------------------------------------------------
 
 > FILE: " 230530_Module1_Homework_CrowdfundingBook_MichaelStrati_WordDoc#1.rtf " --> refers to the below request:
 Create a report in Microsoft Word, and answer the following questions:
@@ -19,6 +21,7 @@ Given the provided data, what are three conclusions that we can draw about crowd
 What are some limitations of this dataset?
 What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
    
+--------------------------------------------------------------------------------
    
 > FILE:  " 230530_Module1_Homework_CrowdfundingBook_MichaelStrati_WordDoc#2.rtf "  --> refers to the below request:
 Use your data to determine whether the mean or the median better summarizes the data.
