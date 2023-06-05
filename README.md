@@ -16,6 +16,7 @@ README.md
 --------------------------------------------------------------------------------
 
 > FILE: " 230530_Module1_Homework_CrowdfundingBook_MichaelStrati_WordDoc#1.rtf " --> refers to the below request:
+
 Create a report in Microsoft Word, and answer the following questions:
 Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 What are some limitations of this dataset?
@@ -24,6 +25,7 @@ What are some other possible tables and/or graphs that we could create, and what
 --------------------------------------------------------------------------------
    
 > FILE:  " 230530_Module1_Homework_CrowdfundingBook_MichaelStrati_WordDoc#2.rtf "  --> refers to the below request:
+
 Use your data to determine whether the mean or the median better summarizes the data.
 Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
